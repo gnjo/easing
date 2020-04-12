@@ -10,6 +10,8 @@ imax=100
 min=10
 max=100
 Math.easeInOut(i,min,max,imax)
+
+//let ary=Array.from({length:10+1}).map((d,i)=>~~Math.easeInOut(i,10,100,10))
 ```
 ```
 /*
