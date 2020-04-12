@@ -1,5 +1,9 @@
 # easing
 ```
+//pug
+script(src="https://gnjo.github.io/easing/easing.js")
+```
+```
 //usage
 i=0
 imax=100
