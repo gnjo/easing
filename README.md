@@ -1,5 +1,12 @@
 # easing
-
+```
+//usage
+i=0
+imax=100
+min=10
+max=100
+Math.easeInOut(i,min,max,imax)
+```
 ```
 ;(function(root){
 let o=root.Math.__proto__
