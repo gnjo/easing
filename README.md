@@ -12,16 +12,14 @@ max=100
 Math.easeInOut(i,min,max,imax)
 ```
 ```
-;(function(root){
-let o=root.Math.__proto__
 /*
 t is stepcount like a i
 b is first value like a min
 c is end value like a max
 d is stepmax like a imax
-*/
+
 Math.linearTween(t,b,c,d)
-Math.easeInQuad
+easeInQuad
 easeOutQuad
 easeInOutQuad
 easeInCubic
@@ -42,7 +40,5 @@ easeInOutExpo
 easeIn  | easeInCirc
 easeOut | easeOutCirc
 easeInOut | easeInOutCirc
-
-})(this)
-
+*/
 ```
